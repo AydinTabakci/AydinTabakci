@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hallo, ik ben Aydin Tabakci 
+### 🚀 Fullstack Developer Student | BIT Academy  
 
-<!--
-**AydinTabakci/AydinTabakci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ik ben een eerstejaars student bij **BIT Academy**, waar ik op een praktijkgerichte manier leer programmeren. Mijn doel is om een **fullstack developer** te worden, dus zowel de frontend als backend van webapplicaties te beheersen.  
 
-Here are some ideas to get you started:
+## 🔧 Technologieën  
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS  
+- **Backend:** PHP, SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Over mij  
+- 🖥️ Enthousiast over webdevelopment en probleemoplossing  
+- 🔍 Altijd op zoek naar nieuwe technologieën om te leren  
+- 🚀 Momenteel bezig met het verbeteren van mijn backend skills  
+
+## 📫 Neem contact op  
+- 💼 LinkedIn: [linkedin.com/in/aydin-tabakci](https://www.linkedin.com/in/aydin-tabakci-a0b387356/)  
+
+💡 Open voor samenwerking en altijd klaar om nieuwe dingen te leren! 🚀  
