@@ -13,6 +13,6 @@ Ik ben een eerstejaars student bij **BIT Academy**, waar ik op een praktijkgeric
 - 🚀 Momenteel bezig met het verbeteren van mijn backend skills  
 
 ## 📫 Neem contact op  
-- 💼 LinkedIn: [linkedin.com/in/aydin-tabakci](https://www.linkedin.com/in/aydin-tabakci-a0b387356/)  
+- 💼 LinkedIn: [linkedin.com/in/aydin-tabakci](https://www.linkedin.com/in/aydin-tabakci/)  
 
 💡 Open voor samenwerking en altijd klaar om nieuwe dingen te leren! 🚀  
